@@ -4,10 +4,10 @@
 
 
 ###TO DO LIST:
--[] Lista para guardar dados do cliente
--[] Classe e Método para buscar dados na lista
--[] Classe e Método para cálculo da média print da resposta
--[] Classe e Método para fazer teste de funcionamento
+- [ ] Lista para guardar dados do cliente
+- [ ] Classe e Método para buscar dados na lista
+- [ ] Classe e Método para cálculo da média print da resposta
+- [ ] Classe e Método para fazer teste de funcionamento
 
 ##Considere que um restaurante muito conhecido de Vila Velha está com um alto fluxo de clientes e precisa calcular o valor médio gasto por cada cliente
 
